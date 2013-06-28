@@ -1,4 +1,4 @@
 hipster-scala
 =========
 
-Small Scala projects
+Small Scala projects from Roza
