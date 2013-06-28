@@ -1,4 +1,4 @@
-scala-fun
+hipster-scala
 =========
 
 Small Scala projects
